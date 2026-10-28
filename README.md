@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 
 
@@ -6,6 +6,6 @@
 
   <p>Entre no Aplicativo dos Periciveis Criado por Mim </p>
 
-  <a href="[https://aistudio.google.com/apps](https://rickshop-estoque-de-pereciveis.ai.studio)">Start building</a>
+  <a href="[https://aistudio.google.com/apps](https://rickshop-estoque-de-pereciveis.ai.studio)">Veja Clicando aqui para ver o projeto </a>
 
 </div>
