@@ -1,0 +1,6 @@
+{
+  "name": "Estoque de Perecíveis",
+  "description": "Controle de estoque de perecíveis com layout de ruas (Batata e Corte) e visualização de prateleiras e lotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
